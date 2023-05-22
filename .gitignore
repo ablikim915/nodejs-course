@@ -1,0 +1,9 @@
+node_modules
+*.log
+*.lock
+package-lock.json
+dist
+.idea
+.DS_Store
+.vscode
+project.private.config.json
