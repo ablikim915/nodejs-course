@@ -1,3 +1,4 @@
+assets
 node_modules
 *.log
 *.lock
@@ -9,3 +10,5 @@ dist
 project.private.config.json
 
 *.txt
+
+assets
