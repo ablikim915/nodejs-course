@@ -7,3 +7,5 @@ dist
 .DS_Store
 .vscode
 project.private.config.json
+
+*.txt
